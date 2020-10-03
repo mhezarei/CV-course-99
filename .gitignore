@@ -1,0 +1,42 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,microsoftoffice
+# Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,microsoftoffice
+
+### JupyterNotebooks ###
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+
+### MicrosoftOffice ###
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
+
+# End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,microsoftoffice
+
