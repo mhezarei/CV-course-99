@@ -19,3 +19,13 @@ __TODO__: Show the flat histogram in addition to the resulting image.
 
 ---
 
+### HW6:
+This assignment was made up of two tasks:
+1. Apply local enhancement, global histogram equalization, and local histogram equalization on a picture. Show them all the write which one is the best? Why?
+2. Add salt-and-pepper noise to an image and then improve it using Gaussian and Median filter. Which one of the filters is better?
+
+__TODO__: Add local enhancement.
+__TODO__: Fix Gaussian filter.
+
+---
+
