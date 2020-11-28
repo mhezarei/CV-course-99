@@ -35,6 +35,8 @@ Backup of *.doc*
 ~$*.ppt*
 *.ppt*
 *.pdf
+./Sources/*
+./Sources
 
 # Visio autosave temporary files
 *.~vsd*
